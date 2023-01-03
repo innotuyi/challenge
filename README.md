@@ -29,7 +29,6 @@ php artisan serve
 # Running frontend
 
 -clone repo
--cd in repo
 ```
 cd reporting-frontend
 ```
